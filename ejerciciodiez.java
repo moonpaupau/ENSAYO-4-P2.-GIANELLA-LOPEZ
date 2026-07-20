@@ -6,7 +6,7 @@ package com.mycompany.ensayo4p2;
 import java.util.Scanner;
 /**
  *
- * @author mauro
+ * @author Gianella Paulina Lopez Mora
  */
 public class ejerciciodiez {
 
